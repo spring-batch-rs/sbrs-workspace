@@ -16,9 +16,9 @@ spring-batch-rs/
 
 | Repo | Purpose | Stack |
 |---|---|---|
-| [sbrs-lib](../sbrs-lib) | Core batch processing library | Rust, crates.io |
-| [sbrs-docsite](../sbrs-docsite) | Public documentation | Astro, Starlight, Firebase |
-| [sbrs-java-bench](../sbrs-java-bench) | Performance reference benchmark | Java 25, Spring Batch 6 |
+| [sbrs-lib](https://github.com/spring-batch-rs/sbrs-lib) | Core batch processing library | Rust, crates.io |
+| [sbrs-docsite](https://github.com/spring-batch-rs/sbrs-docsite) | Public documentation | Astro, Starlight, Firebase |
+| [sbrs-java-bench](https://github.com/spring-batch-rs/sbrs-java-bench) | Performance reference benchmark | Java 25, Spring Batch 6 |
 
 ## Quick Navigation
 
@@ -48,4 +48,4 @@ Any change that adds or modifies a public feature in `sbrs-lib` must be reflecte
 
 ## License
 
-Licensed under [MIT](../sbrs-lib/LICENSE-MIT) or [Apache-2.0](../sbrs-lib/LICENSE-APACHE) at your option.
+Licensed under [MIT](https://github.com/spring-batch-rs/sbrs-lib/blob/main/LICENSE-MIT) or [Apache-2.0](https://github.com/spring-batch-rs/sbrs-lib/blob/main/LICENSE-APACHE) at your option.
